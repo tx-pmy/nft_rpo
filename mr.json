@@ -1,0 +1,12 @@
+{
+    "name": "My first NFT",
+    "description": "Naruto(",
+    "image": "https://my-website.com/path/to/image.png",
+    "author": "panpan",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
