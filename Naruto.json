@@ -1,7 +1,7 @@
 {
     "name": "My first NFT",
     "description": "Naruto(",
-    "image": "https://my-website.com/path/to/image.png",
+    "image": "https://github.com/web3-panpan/nft_rpo/blob/main/Naruto.png",
     "author": "panpan",
     "attributes": [
         {
